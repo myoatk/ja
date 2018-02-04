@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "[MYOA積み重ね]自動走行 (1) 技術フレームワーク"
-date:   2018-02-02 01:17:00 +0800
-categories: jekyll update
+date:   2018-02-01 17:17:00 +0800
+categories: 
 ---
 
 シリーズの最初の記事として、オープンな自動走行プラットフォーム－Apolloから、自動走行技術のフレームワークを望んでみます。
@@ -53,6 +53,6 @@ Cloud Service Platform
 具体的なモジュールはこれからの記事で解説します。
 
 リファレンス：
-Apollo（オフィシャルサイト）
-ApolloAuto/apollo（Github）
+[Apollo（オフィシャルサイト）](http://apollo.auto/)
+[ApolloAuto/apollo（Github）](http://github.com/ApolloAuto/apollo)
 
