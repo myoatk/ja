@@ -53,6 +53,6 @@ Cloud Service Platform
 具体的なモジュールはこれからの記事で解説します。
 
 リファレンス：
-[Apollo（オフィシャルサイト）](http://apollo.auto/)
-[ApolloAuto/apollo（Github）](http://github.com/ApolloAuto/apollo)
+* [Apollo（オフィシャルサイト）](http://apollo.auto/)
+* [ApolloAuto/apollo（Github）](http://github.com/ApolloAuto/apollo)
 
