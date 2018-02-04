@@ -13,6 +13,7 @@ categories:
 * Reference Hardware Platform
 * Open Software Platform
 * Cloud Service Platform
+
 つまり、車、ハードウェア、ソフトウェア、クラウドの四つのレイヤー。
 ちょっと興味深いにのはソフトレイヤーには「オープン」の言葉、車とハードウェアレイヤーには「レファレンス」の言葉があります。つまり、手には入ります。これで自動走行の扉があけてくれました。
 
